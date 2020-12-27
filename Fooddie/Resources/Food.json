@@ -1,0 +1,89 @@
+[
+    {
+        "id" : "1",
+        "title" : "Deluxe",
+        "image" : "https://i.pinimg.com/originals/c5/b0/e5/c5b0e53f3e292b5f05dc8e67165d165a.jpg",
+        "description" : "Chicken, Ham, Pepparoni, Tomato, Sauce, Spicy Chorizo and Mozzarella",
+        "weight" : "150 grams, 35 cm",
+        "price" : 46,
+        "categoryId" : "1"
+    },
+    {
+        "id" : "2",
+        "title" : "Hawaiian",
+        "image" : "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/2/4/0/RX-FNM_030111-All-Star-Pizzas-030_s4x3.jpg.rend.hgtvcom.826.620.suffix/1387306711678.jpeg",
+        "description" : "Chicken,Mozzarella, Pineapple, Domnino's Sauce",
+        "weight" : "150 grams, 35 cm",
+        "price" : 55,
+        "categoryId" : "1"
+    },
+    {
+        "id" : "3",
+        "title" : "Pepperoni",
+        "image" : "https://townsquare.media/site/959/files/2020/08/GettyImages-1133727757.jpg",
+        "description" : "Mozzarella, Pepperoni,Tomatos, BBQ Sauce",
+        "weight" : "150 grams, 35 cm",
+        "price" : 60,
+        "categoryId" : "1"
+    },
+    {
+        "id" : "4",
+        "title" : "Deluxe L",
+        "image" : "https://i.pinimg.com/originals/46/19/c2/4619c2cb737e330073640c0f4ed16547.png",
+        "description" : "Chicken, Ham, Pepparoni, Tomato, Sauce, Spicy Chorizo and Mozzarella",
+        "weight" : "150 grams, 70 cm",
+        "price" : 120,
+        "categoryId" : "1"
+    },
+    {
+        "id" : "5",
+        "title": "The egoist",
+        "image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5646437.jpg",
+        "description": "the egoist dish",
+        "weight": "150 grams",
+        "price": 45,
+        "categoryId" : "2"
+    }, {
+        "id" : "6",
+        "title": "California",
+        "image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5646437.jpg",
+        "description": "the egoist dish",
+        "weight": "150 grams",
+        "price": 46,
+        "categoryId" : "2"
+    }, {
+        "id" : "7",
+        "title": "The egoist 1",
+        "image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5646437.jpg",
+        "description": "the egoist first dish",
+        "weight": "150 grams",
+        "price": 35,
+        "categoryId" : "2"
+    }, {
+        "id" : "8",
+        "title": "Old spice",
+        "image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5646437.jpg",
+        "description": "the egoist dist",
+        "weight": "150 grams",
+        "price": 55,
+        "categoryId" : "2"
+    },
+    {
+        "id" : "9",
+        "title": "Coca Cola",
+        "image": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189255149%2F0x0.jpg",
+        "description": "Cola",
+        "weight": "330 ml",
+        "price": 45,
+        "categoryId" : "3"
+    },
+    {
+        "id" : "10",
+        "title": "Lemon Crush",
+        "image": "https://gfreefoodie.com/wp-content/uploads/2017/06/lemon-crush.jpg",
+        "description": "Lemon Crush",
+        "weight": "330 ml",
+        "price": 46,
+        "categoryId" : "3"
+    }
+]
